@@ -1,0 +1,5 @@
+# Datasets / downloads
+/data/
+
+# Jupyter
+.ipynb_checkpoints/
