@@ -1,5 +1,8 @@
 # Datasets / downloads
 /data/
+IMAGES/
+dog-cat-classifier/
+dog-cat-classifier.zip
 
 # Jupyter
 .ipynb_checkpoints/
