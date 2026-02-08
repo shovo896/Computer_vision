@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/wave"
+		},
+		{
+			"path": "../Downloads/spiral"
+		}
+	],
+	"settings": {}
+}
