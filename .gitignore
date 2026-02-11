@@ -3,6 +3,11 @@
 IMAGES/
 dog-cat-classifier/
 dog-cat-classifier.zip
+datasets/
+runs/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Docs
+README.md
